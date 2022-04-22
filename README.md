@@ -8,6 +8,6 @@ ____
 ## Table of contents
   
 ### Algorithms 
-  1. [Sorting Algorithms]()
+  1. [Sorting Algorithms](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/main/sorting_algorithms.ipynb)
   2. [Searching Algorithms]()
   3. [Algorithms on Graphs]()
