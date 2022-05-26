@@ -20,7 +20,7 @@ ____
   
   
   ### Trees and Graphs
-  1. [Binary Search Trees and Algorithms on Trees](trees_graphs_trees.ipynb)
-  2. [Basics of Graphs and Graphs Traversals](trees_graphs_graphs.ipynb)
-  3. [Union-Find Data Structures and Spanning Tree Algorithms](trees_graphs_union_find_spanning_trees.ipynb)
-  4. [Shortest Path Algorithms](trees_graphs_shortest_path.ipynb)
+  1. [Binary Search Trees and Algorithms on Trees](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/58f092d40d17cd691e7fdaea18d8a7eef9f7b84e/trees_graphs_trees.ipynb)
+  2. [Basics of Graphs and Graphs Traversals](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/58f092d40d17cd691e7fdaea18d8a7eef9f7b84e/trees_graphs_graphs.ipynb)
+  3. [Union-Find Data Structures and Spanning Tree Algorithms](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/58f092d40d17cd691e7fdaea18d8a7eef9f7b84e/trees_graphs_union_find_spanning_trees.ipynb)
+  4. [Shortest Path Algorithms](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/25eea50fb67bbe708e60c10f96cc0edd4d0cc785/trees_graphs_shortest_path.ipynb#Shortest-Path-Algorithm-Comparison-Table)
