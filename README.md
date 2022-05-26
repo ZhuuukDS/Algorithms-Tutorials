@@ -8,7 +8,7 @@ ____
 ## Table of contents
   
   ### Data Structures
-  1. [Dynamic Arrays]('dynamic_arrays.ipynb')
+  1. [Dynamic Arrays](dynamic_arrays.ipynb)
   2. [Linked Lists]()
   3. [Heaps]()
   4. [Hashtables]()
