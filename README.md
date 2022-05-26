@@ -9,9 +9,9 @@ ____
   
   ### Data Structures
   1. [Dynamic Arrays](dynamic_arrays.ipynb)
-  2. [Linked Lists]()
-  3. [Heaps]()
-  4. [Hashtables]()
+  2. [Linked Lists](linked_lists.ipynb)
+  3. [Heaps](heaps.ipynb)
+  4. [Hashtables](hashtables.ipynb)
   
   
   ### Algorithms 
