@@ -1,4 +1,4 @@
-# algorithms_tutorials
+# Algorithms and Data Structures Tutorials
 
 ### This is my repo with collection of notes from different `algorithms and data structures` courses from the very beginning of my learning process
 I consider these notes as something between the course-notes and cheatsheets. <p>
@@ -7,7 +7,14 @@ Mainly it was created to help myself to recall everything I learned, but I hope 
 ____
 ## Table of contents
   
-### Algorithms 
+  ### Data Structures
+  1. [Dynamic Arrays]('dynamic_arrays.ipynb')
+  2. [Linked Lists]()
+  3. [Heaps]()
+  4. [Hashtables]()
+  
+  
+  ### Algorithms 
   1. [Sorting Algorithms](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/main/sorting_algorithms.ipynb)
   2. [Searching Algorithms]()
   3. [Algorithms on Graphs]()
