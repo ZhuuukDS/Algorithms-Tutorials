@@ -14,7 +14,13 @@ ____
   4. [Hashtables](hashtables.ipynb)
   
   
-  ### Algorithms 
+  ### Simple Algorithms 
   1. [Sorting Algorithms](https://nbviewer.org/github/ZhuuukDS/algorithms_tutorials/blob/main/sorting_algorithms.ipynb)
-  2. [Searching Algorithms]()
-  3. [Algorithms on Graphs]()
+  2. [Searching Algorithms](searching_algorithms.ipynb)
+  
+  
+  ### Trees and Graphs
+  1. [Binary Search Trees and Algorithms on Trees](trees_graphs_trees.ipynb)
+  2. [Basics of Graphs and Graphs Traversals](trees_graphs_graphs.ipynb)
+  3. [Union-Find Data Structures and Spanning Tree Algorithms](trees_graphs_union_find_spanning_trees.ipynb)
+  4. [Shortest Path Algorithms](trees_graphs_shortest_path.ipynb)
